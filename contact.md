@@ -3,12 +3,4 @@ title: Contact
 layout: page
 permalink: /contact/
 ---
-<script charset="utf-8" type="text/javascript" src="https://js.mailercloud.com/form/form.js"></script>
-<script>
-(function() {
-    mcform.create({
-      formId: "ZlNzQDU5NTFAMDAwMDAwMA==",
-      targetElement: "form_element_id"
-    })
-  })();
-</script>
+<iframe src="https://share.mailercloud.com/form/RlNDQDU5NTFAMDAwMDAwMA==" title="MialChimp Contact" width="100%" height="1800" style="border:none;"> </iframe> 
