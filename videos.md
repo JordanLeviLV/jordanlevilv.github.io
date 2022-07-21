@@ -1,6 +1,6 @@
 ---
-title: Videos
+title: Video
 layout: page
-permalink: /videos/
+permalink: /video/
 ---
 Coming soon!
