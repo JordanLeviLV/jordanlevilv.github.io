@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "(My) Song of the Season | "Tequila""
-excerpt: "My review of the song "Tequila" by NENNY."
+title: "(My) Song of the Season | 'Tequila'"
+excerpt: "My review of the song 'Tequila' by NENNY."
 categories:
   - Reviews
 tags:
