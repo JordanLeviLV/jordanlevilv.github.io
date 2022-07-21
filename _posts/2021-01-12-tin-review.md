@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""This Is Neoliberalism" Review"
+title: "'This Is Neoliberalism' Review"
 excerpt: "My review of the documentary _This Is Neoliberalism_ by BarakalypseNow."
 categories:
   - Reviews
