@@ -11,7 +11,7 @@ image:
   path: /assets/images/gplns-review-full.png
   thumbnail: /assets/images/gplns-review-thumb.png
   caption:
-date: 2021-09-01 03:10:00 +0800
+date: 2021-09-01 12:10:00 +0800
 author: Jordan Levi
 comments: true
 published: true
