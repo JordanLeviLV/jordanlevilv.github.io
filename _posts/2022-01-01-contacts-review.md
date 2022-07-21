@@ -10,7 +10,6 @@ tags:
 image: 
   path: /assets/images/contacts-review-full.png
   thumbnail: /assets/images/contacts-review-thumb.png
-  caption:
 date: 2022-01-01 00:05:00 +0800
 author: Jordan Levi
 comments: true
