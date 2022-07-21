@@ -11,7 +11,7 @@ image:
   path: /assets/images/ci-review-full.png
   thumbnail: /assets/images/ci-review-thumb.png
   caption:
-date: 2021-09-01 03:15:00 +0800
+date: 2021-09-01 12:15:00 +0800
 author: Jordan Levi
 comments: true
 published: true
