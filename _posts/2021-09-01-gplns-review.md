@@ -18,6 +18,8 @@ published: true
 share: true
 permalink: grace-park-legend-review
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i7rVmeeXIvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 One of the most slept-on cities in California, music-wise, is Long Beach. It’s the hometown of Sublime, Vince Staples, and Snoop Dogg, of course, but they’ve also got a lot of prolific MCs who are more or less underground — who haven’t gone mainstream yet. One of, if not the best example, is Huey Briss.
 
 I basically found out about Briss through a friend. I can’t remember the friend’s name off the top of my head, but I let him perform at a show I set up, and he ended up telling one of his homies about that, a rapper named OHSEA, who’s from Long Beach. OHSEA hit me up to get on a show in the future and although his music was dope, that just never came to fruition for some reason, but we did follow each other on social media to stay in contact. One day, OHSEA posted a clip on Instagram of Huey Briss’s music video for "Gil Scott Never Lied" and I probably played that 10 times a day for a week. I’ve been keeping up with Briss since then and, despite all his recent wins, like his music video for "Regardless" getting posted on No Jumper’s YouTube channel (which is no easy feat), he hasn’t let any of them get to his head — if anything, he’s been grinding harder.
