@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Cradle to Cradle" Review"
+title: "'Cradle to Cradle' Review"
 excerpt: "My review of the book _Cradle to Cradle: Remaking the Way We Make Things_ by William McDonough and Michael Braungart."
 categories:
   - Reviews
