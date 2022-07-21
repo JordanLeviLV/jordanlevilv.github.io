@@ -11,7 +11,7 @@ image:
   path: /assets/images/wsatoow-review-full.png
   thumbnail: /assets/images/wsatoow-review-thumb.png
   caption:
-date: 2021-09-01 03:05:00 +0800
+date: 2021-09-01 12:05:00 +0800
 author: Jordan Levi
 comments: true
 published: true
