@@ -11,7 +11,7 @@ image:
   path: /assets/images/babb-review-full.png
   thumbnail: /assets/images/babb-review-thumb.png
   caption:
-date: 2020-10-29 00:46:00 +0800
+date: 2020-10-29 12:46:00 +0800
 author: Jordan Levi
 comments: true
 published: true
