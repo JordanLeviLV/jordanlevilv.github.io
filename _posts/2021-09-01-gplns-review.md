@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "(My) Song of the Season | "Grace Park Legend (Norfside)""
-excerpt: "My review of the song "Grace Park Legend (Norfside)" by Huey Briss."
+title: "(My) Song of the Season | 'Grace Park Legend (Norfside)'"
+excerpt: "My review of the song 'Grace Park Legend (Norfside)' by Huey Briss."
 categories:
   - Reviews
 tags:
