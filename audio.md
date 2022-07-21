@@ -1,7 +1,7 @@
 ---
-title: Interviews
+title: Audio
 layout: page
-permalink: /interviews/
+permalink: /audio/
 ---
 This is my second appearance on my homie Roberto's podcast. We end up discussng random political topics.
 <iframe src="https://open.spotify.com/embed/episode/3Law7DZrKrok12rZcc3x6g" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
