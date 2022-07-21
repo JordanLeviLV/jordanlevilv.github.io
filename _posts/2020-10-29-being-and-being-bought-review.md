@@ -18,6 +18,10 @@ published: true
 share: true
 permalink: being-and-being-bought-review
 ---
+Available on [Bookshop.org](https://bookshop.org/books/being-and-being-bought-prostitution-surrogacy-and-the-split-self/9781742198767)!
+
+<hr>
+
 I came across Kajsa’s TEDx Talk on Youtube about 2 years ago and thought it was really good, so I decided to look up some of her work and found out about this book. I’ve had it in my mental backlog of books I’ve wanted to read after finishing Marx’s major works, but I decided to take a quick break and knock some of those out so I could add some reviews to the magazine, and I’m glad this was one of them.
 
 The first half is about the exploitative nature of prostitution and how its defenders obfuscate from the actual circumstances surrounding it – e.g. the danger, mental harm, etc. – in favor of an idealized conception of those circumstances, framed as not being exploitative, but empowering. She touches on how Cartesian dualism has to be taken for granted for any of this to make sense and how reification also rears its ugly head.
