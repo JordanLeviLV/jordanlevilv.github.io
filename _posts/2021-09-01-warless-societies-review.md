@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Warless Societies and the Origin of War" Review"
+title: "'Warless Societies and the Origin of War' Review"
 excerpt: "My review of the book _Warless Societies and the Origin of War_ by Raymond C. Kelly."
 categories:
   - Reviews
