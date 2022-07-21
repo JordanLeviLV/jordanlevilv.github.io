@@ -11,7 +11,7 @@ image:
   path: /assets/images/ctc-review-full.png
   thumbnail: /assets/images/ctc-review-thumb.png
   caption:
-date: 2020-10-29 00:55:00 +0800
+date: 2020-10-29 12:55:00 +0800
 author: Jordan Levi
 comments: true
 published: true
