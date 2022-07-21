@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Gender Ideology" Review"
+title: "'Gender Ideology' Review"
 excerpt: "My review of the documentary _Gender Ideology_ by The State Media."
 categories:
   - Reviews
