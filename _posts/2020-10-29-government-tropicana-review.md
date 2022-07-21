@@ -11,7 +11,7 @@ image:
   path: /assets/images/gt-review-full.png
   thumbnail: /assets/images/gt-review-thumb.png
   caption:
-date: 2020-10-29 01:10:00 +0800
+date: 2020-10-29 13:10:00 +0800
 author: Jordan Levi
 comments: true
 published: true
