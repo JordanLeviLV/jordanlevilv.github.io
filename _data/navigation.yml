@@ -4,12 +4,12 @@
   url: /
 - title: About
   url: /about/
-- title: Posts
-  url: /posts/
-- title: Videos
-  url: /videos/
-- title: Interviews
-  url: /interviews/
+- title: Text
+  url: /text/
+- title: Video
+  url: /video/
+- title: Audio
+  url: /audio/
 - title: Categories
   url: /categories/
 - title: Tags
