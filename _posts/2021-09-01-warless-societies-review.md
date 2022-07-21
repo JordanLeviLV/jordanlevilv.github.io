@@ -18,6 +18,10 @@ published: true
 share: true
 permalink: warless-societies-review
 ---
+Available on [Bookshop.org](https://bookshop.org/books/warless-societies-and-the-origin-of-war/9780472067381)!
+
+<hr>
+
 This is one of the best books I’ve read in a while. I found out about it after an exchange with a Twitter mutual of mine, in which he argued that humans have always engaged in war. I mentioned that I read in a couple of articles that humans didn’t start engaging in war until after the neolithic revolution, then he said I was wrong, so I went to dig for a reference on Wikipedia and found this. The author does a fantastic job of building from basic facts and concepts, then tying those into his ultimate conclusion that, contrary to popular belief, humans haven’t been engaging in warfare for the vast majority of our species’ history.
 
 I believe the first major point he touched on was that anthropologists who’ve determined that a warless human society’s never existed tended to have too broad of a definition of war. All human societies have participated in violence, but violence isn’t synonymous with war and a key custom that eventually leads to the latter is what the author calls “social substitution” — the act of retaliating against a member of a perpetrator’s social group, rather than against the individual perpetrator. This generally starts as a blood feud between families, then gradually escalates into war between tribes over time. He compares murder rates between warless and warlike societies, as well as what he calls segmental and “unsegmented societies” — societies which have no organization beyond their local group — and shows that, while both segmental and unsegmented warless societies have seemingly high murder rates, that’s ultimately only because of their low populations, and murders themselves are chronologically rare, with a significant number of victims being innocent bystanders who were trying to break up the conflict, for example.
