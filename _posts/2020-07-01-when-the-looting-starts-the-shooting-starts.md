@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'When the looting starts, the shooting starts.'"
+title: ""When the looting starts, the shooting starts.""
 excerpt: "Capitalism chooses property over people."
 categories:
   - Articles
