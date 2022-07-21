@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(My) Song of the Season | "Contacts""
+title: "(My) Song of the Season | 'Contacts'"
 excerpt: "My review of the song "Contacts" by Mick Jenkins."
 categories:
   - Reviews
