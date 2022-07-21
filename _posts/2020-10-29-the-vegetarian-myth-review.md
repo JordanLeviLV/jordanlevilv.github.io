@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""The Vegetarian Myth" Review"
+title: "'The Vegetarian Myth' Review"
 excerpt: "My review of the book _The Vegetarian Myth_ by Lierre Keith."
 categories:
   - Reviews
