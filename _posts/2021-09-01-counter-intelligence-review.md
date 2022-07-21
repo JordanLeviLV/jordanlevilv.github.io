@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Counter-Intelligence" Review"
+title: "'Counter-Intelligence' Review"
 excerpt: "My review of the documentary _Counter-Intelligence_ by Metanoia Films."
 categories:
   - Reviews
