@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Government Tropicana" Review"
+title: "'Government Tropicana' Review"
 excerpt: "My review of the album _Government Tropicana_ by Lex Amor."
 categories:
   - Reviews
