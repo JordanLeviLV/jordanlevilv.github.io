@@ -413,3 +413,7 @@ I’ve added specific quotations that I felt like addressing below, with my resp
 <sup>[86]</sup> “Gill Peterson finds in the archive traces of anxiety on the part of clinicians and researchers about the impossibility of sequestering adrenal systems from secondary sex characteristics – either in CAH itself, or in therapeutic approaches to it. As there is no way to address metabolic regulation without also having effects on sex characteristics, researchers and doctors found themselves forced to conclude that biological sex is far less stable and fixed than they might have liked to presume. Sex, in other words, is not an autonomous property of the body; rather, it – and the body – exist in a tangled metabolic flux.” - Pgs. 392 - 393, Jordy Rosenberg
 
 **— Sex characteristics aren’t sex. There are two reproductive pathways for humans to go after sexual differentiation and which way you go is what determines your sex. Sex characteristics develop after sex has been determined, they don’t determine it. Sex is immutable.**
+
+<hr>
+
+Book available at [https://bookshop.org/books/transgender-marxism-9780745341668/9780745341668](https://bookshop.org/books/transgender-marxism-9780745341668/9780745341668).
