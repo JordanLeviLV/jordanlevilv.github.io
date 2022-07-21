@@ -11,7 +11,7 @@ image:
   path: /assets/images/tvm-review-full.png
   thumbnail: /assets/images/tvm-review-thumb.png
   caption:
-date: 2020-10-29 00:50:00 +0800
+date: 2020-10-29 12:50:00 +0800
 author: Jordan Levi
 comments: true
 published: true
