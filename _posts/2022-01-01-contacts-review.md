@@ -17,6 +17,7 @@ published: true
 share: true
 permalink: contacts-review
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tWxzKqTHhQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For those unfamiliar with Mick Jenkins, he’s a rapper hailing from the south side of Chicago, IL. I found out about him around 2015 or ‘16 when my homie Tristan showed me his track "Martyrs" and I immediately got hooked. I loved it so much that Tristan and I even dropped a remix. A lot of his music has a soulful flavor to it, incorporating soul samples what seems like more often than not. Since I was introduced to him, he’s kept his foot on the gas, adding seven projects and a slew of singles to his repertoire.
 
