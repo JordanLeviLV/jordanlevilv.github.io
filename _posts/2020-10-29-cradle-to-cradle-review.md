@@ -18,6 +18,10 @@ published: true
 share: true
 permalink: cradle-to-cradle-review
 ---
+Available on [Bookshop.org](https://bookshop.org/books/cradle-to-cradle-remaking-the-way-we-make-things-9780865475878/9780865475878)!
+
+<hr>
+
 I can’t fully remember exactly how I found this book, but I think it was during a Google wormhole where I was trying to figure out if it might ever be possible for bioplastics to be durable and conductive enough to replace metal. Regardless, Waste = Food – that’s the entire premise of this book. Waste is an inevitable byproduct of production, but rather than manufacturing products in ways or with chemicals that are destructive to the environment then sending them to landfills to pile up and slowly cause even more destruction – what the authors refer to as ‘cradle to grave’ – we could instead produce them in ways that are not only sustainable and ecologically friendly, but also ecologically beneficial – what they refer to as ‘cradle to cradle.’ Rather than products being recycled and degrading in quality – what they more fittingly call downcycled – they could instead be upcycled, retaining the same level of quality.
 
 I love the fact that they gave various examples of companies they’ve worked with to achieve this goal, as well as products that could potentially be made in the future. I also love the fact that they accept this isn’t a silver bullet, that we may not be able to avoid all toxic products indefinitely for now at least, and opting to plan around that while still acknowledging how much of our environmental problems this could solve anyway. The only bone I have to pick is a brief reference they make to the socialism of Karl Marx’s _Communist Manifesto_ juxtaposed to the laissez-faire capitalism of Adam Smith’s _Wealth of Nations_, claiming they’d both failed:
