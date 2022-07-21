@@ -28,6 +28,6 @@ My only gripe’s that it has kind of an anti-civ tinge to it. I could be wrong,
 
 <hr>
 
-Book available at [[Bookshop.org](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801)](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801).
+Book available at [https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801).
 
 Originally published at [https://wspus.org/2020/10/our-new-journal-world-socialist/](https://wspus.org/2020/10/our-new-journal-world-socialist/).
