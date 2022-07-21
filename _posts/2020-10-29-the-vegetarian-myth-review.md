@@ -18,10 +18,6 @@ published: true
 share: true
 permalink: the-vegetarian-myth-review
 ---
-Available on [Bookshop.org](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801)!
-
-<hr>
-
 Towards the end of my SuccDem Berniecrat phase I was basically addicted to Steven Crowder’s Youtube videos since I wasn’t aware of any socialists making sense in the transgender debate (I didn’t find out about Magdalen Berns until after she died, but thank god more radicals have started to speak out since). I found out about Lierre through her interview with Steven around that time and wanted to read this book ever since.
 
 The title’s pretty self-explanatory: it’s a polemic against vegetarian and vegan diets. She was a vegan for 20 years, so it’s also partly a memoir of her own experience and journey back to eating meat. She explains many of the health issues she encountered along the way and gives scientific explanations why. I loved it so much because, not only is Lierre’s writing extremely engaging, but she also references her statements to hell and back.
@@ -31,5 +27,7 @@ One thing I wasn’t expecting was her to explain that the Standard American Die
 My only gripe’s that it has kind of an anti-civ tinge to it. I could be wrong, but it seems like she doesn’t think technology and a healthy planet can co-exist. I still highly recommend it, but I’d be interested in hearing her opinion on how successful she thinks the strategy of this next book might be.
 
 <hr>
+
+Book available at [[Bookshop.org](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801)](https://bookshop.org/books/the-vegetarian-myth-food-justice-and-sustainability/9781604860801).
 
 Originally published at [https://wspus.org/2020/10/our-new-journal-world-socialist/](https://wspus.org/2020/10/our-new-journal-world-socialist/).
