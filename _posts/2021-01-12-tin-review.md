@@ -18,6 +18,10 @@ published: true
 share: true
 permalink: this-is-neoliberalism-review
 ---
+Watch on [filmsforaction.org](https://www.filmsforaction.org/watch/this-is-neoliberalism/)!
+
+<hr>
+
 This Youtube documentary covers some of the prominent economists and writers behind the rise of our current economic orthodoxy, being neoliberalism. “Fish are the last to discover water,” as they say, so I think this development is very important for radicals of every stripe to understand in order to recognize its “common sense” arguments as soon as they’re deployed and get an idea of how astroturf movements like this could develop in the future. The documentary’s split into five parts and clocks in at  just over three hours long altogether, but I’m sure there’ll be more parts added over time since part five still doesn’t fully get into the roles played in its ascendance by Ronald Reagan and Margaret Thatcher or their successors, Bill Clinton and Tony Blair.
 
 The documentary mainly focuses on: the period following World War I; the stock market crash of 1929 and subsequent Great Depression; the economic reforms of FDR and Clement Attlee; World War II; and the stagflation of the 1970’s. Most people know there were around 3 decades of unprecedented prosperity immediately following WWII, but I don’t usually hear it mentioned that this was brought about by a very different economic paradigm which preceded our era, called Keynesianism. This era was heavily influenced by the work of John Maynard Keynes and marked by a focus on government intervention, as opposed to the individualism and free markets of the classical liberal era immediately preceding it. As the theories of Keynesian economics came into question in the 70’s, defenders of classical liberalism – such as Friedrich von Hayek and Milton Friedman – simultaneously grew to prominence, along with their associated organizations.
