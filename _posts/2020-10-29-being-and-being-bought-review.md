@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Being and Being Bought" Review"
+title: "'Being and Being Bought' Review"
 excerpt: "My review of the book _Being and Being Bought_ by Kajsa Ekis Ekman."
 categories:
   - Reviews
