@@ -18,6 +18,7 @@ published: true
 share: true
 permalink: contacts-review
 ---
+
 For those unfamiliar with Mick Jenkins, he’s a rapper hailing from the south side of Chicago, IL. I found out about him around 2015 or ‘16 when my homie Tristan showed me his track "Martyrs" and I immediately got hooked. I loved it so much that Tristan and I even dropped a remix. A lot of his music has a soulful flavor to it, incorporating soul samples what seems like more often than not. Since I was introduced to him, he’s kept his foot on the gas, adding seven projects and a slew of singles to his repertoire.
 
 Mick originally dropped a snippet of this track on his Instagram over a year ago, and I’ve gotten accustomed to hearing insane snippets that never get released, so I’d almost lost hope. You can only listen to an Instagram snippet so much before you start considering sending an angry fan email. Thankfully, I saw a clip of the music video come up on my Twitter feed in early October and legit jumped up from excitement. The beat’s got a very eerie, almost extraterrestrial vibe to it, with Mick switching flows like it’s a bad habit as usual. I’d already known the hook and the first verse word for word and the second’s just as good, with the visuals leaving nothing to be desired, either.
