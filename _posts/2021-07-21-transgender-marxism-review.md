@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Transgender Marxism" Review"
+title: "'Transgender Marxism' Review"
 excerpt: "My review of the book _Transgender Marxism_."
 categories:
   - Reviews
