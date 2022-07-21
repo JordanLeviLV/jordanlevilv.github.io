@@ -18,6 +18,8 @@ published: true
 share: true
 permalink: government-tropicana-review
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_l_v0AtdjrEfTcDgrRxP3-Bh_xGSnCosPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I listened to this album after Kojey posted it on his Instagram story the day it dropped, and was the absolute furthest thing from disappointed. It clocks in at what I consider to be the perfect album length – 30 mins – and every track slaps harder than a wife that got cheated on. My favorite’s definitely the first song "Quarter Century," but other stand outs are "Mazza," which I believe was the first single to drop back in January, "Plant Your Feet (P.Y.F)," and "Odogwu (Freestyle)." With this much raw talent, I’m sure there’s big things in store for her in the future.
 
 <hr>
