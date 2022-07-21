@@ -18,8 +18,6 @@ published: true
 share: true
 permalink: the-vegetarian-myth-review
 ---
-The Vegetarian Myth by Lierre Keith - 12:50 AM PST
-
 Towards the end of my SuccDem Berniecrat phase I was basically addicted to Steven Crowder’s Youtube videos since I wasn’t aware of any socialists making sense in the transgender debate (I didn’t find out about Magdalen Berns until after she died, but thank god more radicals have started to speak out since). I found out about Lierre through her interview with Steven around that time and wanted to read this book ever since.
 
 The title’s pretty self-explanatory: it’s a polemic against vegetarian and vegan diets. She was a vegan for 20 years, so it’s also partly a memoir of her own experience and journey back to eating meat. She explains many of the health issues she encountered along the way and gives scientific explanations why. I loved it so much because, not only is Lierre’s writing extremely engaging, but she also references her statements to hell and back.
