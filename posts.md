@@ -1,7 +1,7 @@
 ---
-title: Post Archive
+title: Text
 layout: posts
-permalink: /posts/
+permalink: /text/
 show_excerpts: true
-entries_layout: list
+entries_layout: grid
 ---
