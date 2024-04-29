@@ -13,7 +13,7 @@ image:
 date: 2021-07-21 16:22:00 +0800
 author: Jordan Levi
 comments: true
-published: true
+published: false
 share: true
 permalink: transgender-marxism-review
 ---
